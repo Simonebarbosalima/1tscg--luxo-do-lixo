@@ -1,3 +1,2 @@
-# 1tscg--luxo-do-lixo
-área para guardar documento e programas do projeto de sistema para gerenciar coleta seletiva do luxo do lixo
-exemplo usado em sala de aula 
+# 1TSCG-luxodolixo
+Área para guardar documentos e programas do projeto de sistema para gerenciar coleta seletiva de lixo. Exemplo usado em sala de aula
